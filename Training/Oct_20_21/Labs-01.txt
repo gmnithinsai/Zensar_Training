@@ -1,0 +1,72 @@
+Task1:-
+=======
+from www.google.co.in URL extract all the HYPER LINKS
+and store them in a CSV file
+HYPERLINK  and DESCRIPTION should be store in the CSV file
+
+
+Task2:-
+=======
+from https://in.bookmyshow.com/explore/home/bengaluru
+
+extract  - movie name
+         - language
+         - rating 
+         - no of likes
+
+store them in a DICTIONARY 
+
+
+Task3:-
+=======
+contents of data.xml
+=====================
+<students>   
+ <record>
+  <name>arun</name>
+  <branch>CSE</branch>
+  </record>
+
+ <record>
+  <name>RAvi</name>
+  <branch>ECE</branch>
+  <loc>blr</loc>
+ </record>
+
+
+ <record>
+  <name>hari</name>
+  <branch>mech</branch>
+  <loc>blr</loc>
+ </record>
+
+ <record>
+  <name>john</name>
+  <branch>civ</branch>
+  <loc>blr</loc>
+ </record>
+
+</students>
+
+read the data.xml file & 
+store them in a DB 
+
+
+Task4:-
+========
+
+read the data.xml file & 
+PREPARE a JSON TEXT 
+
+
+
+
+
+
+
+
+
+
+
+
+
